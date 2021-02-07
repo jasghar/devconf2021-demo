@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/devconf2021-demo/static/css/main.bd3d21f4.chunk.css",
-    "main.js": "/devconf2021-demo/static/js/main.e482bea0.chunk.js",
-    "main.js.map": "/devconf2021-demo/static/js/main.e482bea0.chunk.js.map",
+    "main.js": "/devconf2021-demo/static/js/main.54c4679f.chunk.js",
+    "main.js.map": "/devconf2021-demo/static/js/main.54c4679f.chunk.js.map",
     "runtime-main.js": "/devconf2021-demo/static/js/runtime-main.2168cd2f.js",
     "runtime-main.js.map": "/devconf2021-demo/static/js/runtime-main.2168cd2f.js.map",
     "static/js/2.5f896c34.chunk.js": "/devconf2021-demo/static/js/2.5f896c34.chunk.js",
     "static/js/2.5f896c34.chunk.js.map": "/devconf2021-demo/static/js/2.5f896c34.chunk.js.map",
     "index.html": "/devconf2021-demo/index.html",
-    "precache-manifest.7707ee89e44be6eecc1903826b2da147.js": "/devconf2021-demo/precache-manifest.7707ee89e44be6eecc1903826b2da147.js",
+    "precache-manifest.610d51b9cb0b5d4e7836d87b726dba50.js": "/devconf2021-demo/precache-manifest.610d51b9cb0b5d4e7836d87b726dba50.js",
     "service-worker.js": "/devconf2021-demo/service-worker.js",
     "static/css/main.bd3d21f4.chunk.css.map": "/devconf2021-demo/static/css/main.bd3d21f4.chunk.css.map",
     "static/js/2.5f896c34.chunk.js.LICENSE.txt": "/devconf2021-demo/static/js/2.5f896c34.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2168cd2f.js",
     "static/js/2.5f896c34.chunk.js",
     "static/css/main.bd3d21f4.chunk.css",
-    "static/js/main.e482bea0.chunk.js"
+    "static/js/main.54c4679f.chunk.js"
   ]
 }
