@@ -100,7 +100,7 @@ button {
   text-transform: uppercase;
   font-size: $font-size-base;
   font-family: $font-family-base;
-  border: none;
+  border: 1px solid $black;
   padding: 0.5em;
   min-width: 4rem;
   margin-right: 1rem;
