@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/devconf2021-demo/static/css/main.bd3d21f4.chunk.css",
+    "main.css": "/devconf2021-demo/static/css/main.4d80662e.chunk.css",
     "main.js": "/devconf2021-demo/static/js/main.bd92b484.chunk.js",
     "main.js.map": "/devconf2021-demo/static/js/main.bd92b484.chunk.js.map",
     "runtime-main.js": "/devconf2021-demo/static/js/runtime-main.2168cd2f.js",
@@ -8,9 +8,9 @@
     "static/js/2.5f896c34.chunk.js": "/devconf2021-demo/static/js/2.5f896c34.chunk.js",
     "static/js/2.5f896c34.chunk.js.map": "/devconf2021-demo/static/js/2.5f896c34.chunk.js.map",
     "index.html": "/devconf2021-demo/index.html",
-    "precache-manifest.838c83cf62324ef272a02aab379fb3b2.js": "/devconf2021-demo/precache-manifest.838c83cf62324ef272a02aab379fb3b2.js",
+    "precache-manifest.8cc7e43a58d9167ed1cf97ed0f98fb02.js": "/devconf2021-demo/precache-manifest.8cc7e43a58d9167ed1cf97ed0f98fb02.js",
     "service-worker.js": "/devconf2021-demo/service-worker.js",
-    "static/css/main.bd3d21f4.chunk.css.map": "/devconf2021-demo/static/css/main.bd3d21f4.chunk.css.map",
+    "static/css/main.4d80662e.chunk.css.map": "/devconf2021-demo/static/css/main.4d80662e.chunk.css.map",
     "static/js/2.5f896c34.chunk.js.LICENSE.txt": "/devconf2021-demo/static/js/2.5f896c34.chunk.js.LICENSE.txt",
     "static/media/icon-close.svg": "/devconf2021-demo/static/media/icon-close.f227c489.svg",
     "static/media/icon-loading.svg": "/devconf2021-demo/static/media/icon-loading.200bc7ed.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2168cd2f.js",
     "static/js/2.5f896c34.chunk.js",
-    "static/css/main.bd3d21f4.chunk.css",
+    "static/css/main.4d80662e.chunk.css",
     "static/js/main.bd92b484.chunk.js"
   ]
 }
